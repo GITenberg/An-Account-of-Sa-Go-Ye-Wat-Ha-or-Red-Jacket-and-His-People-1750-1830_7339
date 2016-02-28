@@ -1,0 +1,37 @@
+_repo: An-Account-of-Sa-Go-Ye-Wat-Ha-or-Red-Jacket-and-His-People-1750-1830_7339
+creator:
+  author:
+    agent_name: Hubbard, John Niles
+    alias: Hubbard, J. Niles (John Niles)
+    birthdate: 1815
+    deathdate: 1897
+    gutenberg_agent_id: '8352'
+    url: http://www.gutenberg.org/2009/agents/8352
+description: '"Red Jacket (known as Otetiani in his youth and Sagoyewatha after 1780)
+  (c. 1750-1830) was a Native American Seneca orator and chief of the Wolf clan. He
+  played a prominent role in negotiations with the new federal government. In 1792
+  he was heading a delegation of 50 people to Philadelphia where president George
+  Washington presented him with a special "peace medal," a large oval silver plate
+  showing an image of Washington on the right hand side shaking his hand engraved
+  upon it, below the inscription "George Washington," "Red Jacket," and "1792." In
+  1794, Red Jacket was a signatory along with Cornplanter and fifty other Iroquois,
+  of the Treaty of Canandaigua confirming peace with the United States and the earlier
+  boundaries of 1788 the Phelps and Gorham Purchase of most of the Seneca land east
+  of the Genesee River in western New York. Red Jacket took this name, one of several,
+  for a highly favored embroidered coat given to him by the British for his wartime
+  services."--Cover'
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Red Jacket, Seneca chief, approximately 1756-1830'
+- !lcsh 'Seneca Indians -- Kings and rulers -- Biography'
+- !lcc 'E011'
+- !lcsh 'Iroquois Indians -- Government relations'
+title: An Account of Sa-Go-Ye-Wat-Ha, or Red Jacket, and His People, 1750-1830
+url: http://www.gutenberg.org/ebooks/7339
