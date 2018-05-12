@@ -1,4 +1,8 @@
 _repo: An-Account-of-Sa-Go-Ye-Wat-Ha-or-Red-Jacket-and-His-People-1750-1830_7339
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hubbard, John Niles
@@ -20,6 +24,8 @@ description: '"Red Jacket (known as Otetiani in his youth and Sagoyewatha after 
   of the Genesee River in western New York. Red Jacket took this name, one of several,
   for a highly favored embroidered coat given to him by the British for his wartime
   services."--Cover'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7339#An-Account-of-Sa-Go-Ye-Wat-Ha-or-Red-Jacket-and-His-People-1750-1830
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
